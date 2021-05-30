@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @torsten-gattung
+- 👋 Hi, I’m Torsten
 - 👀 I’m interested in automating stuff
 - 🌱 I’m currently learning process mining and python
 .
