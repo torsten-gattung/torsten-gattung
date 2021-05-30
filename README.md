@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Torsten
-- 👀 I’m interested in automating stuff
+- 👀 I’m interested in automation and improving thins.
 - 🌱 I’m currently learning process mining and python
 .
 
